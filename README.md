@@ -1,4 +1,4 @@
-# projeto onde estava aprendendo a montar projeto com HTML e CSS
+# Aprendendo a montar projeto com HTML e CSS
 
 ## Tecnologias usadas
 - HTML
